@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MTPAPI,Chrome 114.0.0.0,,,2023-06-20 15:43:51,2023-06-20 15:44:03,12.038s,FAILED
+,,,,,,,
+Test Cases/MolecularTargetAPI,Chrome 114.0.0.0,,,2023-06-20 15:44:00,2023-06-20 15:44:03,2.907s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-20 15:44:00,2023-06-20 15:44:03,2.292s,PASSED
+testName = $testName,Chrome 114.0.0.0,,,2023-06-20 15:44:03,2023-06-20 15:44:03,0.001s,PASSED
+url = $host + $suffixUrl,Chrome 114.0.0.0,,,2023-06-20 15:44:03,2023-06-20 15:44:03,0.000s,PASSED
+checkPointName = testName,Chrome 114.0.0.0,,,2023-06-20 15:44:03,2023-06-20 15:44:03,0.001s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-20 15:44:03,2023-06-20 15:44:03,0.132s,PASSED
+"setViewPortSize(1200, 99999)",Chrome 114.0.0.0,,,2023-06-20 15:44:03,2023-06-20 15:44:03,0.259s,PASSED
+navigateToUrl(url),Chrome 114.0.0.0,,,2023-06-20 15:44:03,2023-06-20 15:44:03,0.152s,FAILED

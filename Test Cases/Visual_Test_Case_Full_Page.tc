@@ -12,24 +12,24 @@
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/Test_Data_60-70</testDataId>
+      <testDataId>Data Files/MolecularTargetApI</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>testName</value>
+      <value></value>
       <variableId>84ad2b68-7972-4ace-b037-a279ffbf35e0</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>host</value>
+      <value></value>
       <variableId>9b58c03b-28fc-4f9e-b0ea-bd30ce9d2bb0</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>suffixUrl</value>
+      <value></value>
       <variableId>b594f8ae-2000-41b4-a869-7dfa13996dda</variableId>
    </variableLinks>
    <variable>

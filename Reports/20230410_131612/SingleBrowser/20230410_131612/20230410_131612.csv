@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SingleBrowser,,,,2023-04-10 13:16:17,2023-04-10 13:16:17,0.730s,PASSED
+,,,,,,,
+Test Cases/Visual_Test_Case_Full_Page_ALL,,,,2023-04-10 13:16:17,2023-04-10 13:16:17,0.443s,PASSED
+return null,,,,2023-04-10 13:16:17,2023-04-10 13:16:17,0.001s,PASSED

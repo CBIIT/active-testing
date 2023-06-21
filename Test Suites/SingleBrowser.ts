@@ -12,28 +12,28 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>08d20166-1abe-4b0c-8a5d-a457c9198486</testSuiteGuid>
    <testCaseLink>
-      <guid>9c989c47-b24b-410d-9fd7-26de3abe4c21</guid>
+      <guid>74f91718-7ead-4ba4-bd8d-96e52825ff2b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Visual_Test_Case_Full_Page - SingleBrowser</testCaseId>
+      <testCaseId>Test Cases/Visual_Test_Case_Full_Page - Sample</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>45dc5d0d-ee5b-48f5-b51a-ec0d54e14e3d</variableId>
+         <variableId>b3d4940f-3227-412e-98e6-0040d762576e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>a11a49b1-4e82-494a-a47f-816a31babdcd</variableId>
+         <variableId>db73df68-12b0-42b9-8793-44274978e272</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c458b068-b293-4912-8334-e37e3a19fde4</variableId>
+         <variableId>9a353787-afdf-4cbe-b838-5ed768323d8d</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

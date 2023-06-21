@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MolecularTargetAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c01634c3-32c1-4513-8235-97d21afc445a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/MolecularTargetApI</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testName</value>
+      <variableId>230ccbe0-9ec0-4131-9e2e-ea2b0c33eba4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>host</value>
+      <variableId>46e7a125-0f3d-48f0-a30a-fa81315883cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>suffixUrl</value>
+      <variableId>56f50293-918b-48e3-ba59-e8b994b15d1f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>230ccbe0-9ec0-4131-9e2e-ea2b0c33eba4</id>
+      <masked>false</masked>
+      <name>testName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46e7a125-0f3d-48f0-a30a-fa81315883cb</id>
+      <masked>false</masked>
+      <name>host</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56f50293-918b-48e3-ba59-e8b994b15d1f</id>
+      <masked>false</masked>
+      <name>suffixUrl</name>
+   </variable>
+</TestCaseEntity>

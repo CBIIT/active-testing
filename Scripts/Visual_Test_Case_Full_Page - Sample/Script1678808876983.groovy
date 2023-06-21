@@ -21,7 +21,7 @@ import com.kms.katalon.core.testobject.ConditionType as ConditionType
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.setViewPortSize(1200, 99999)
-TestData td  = findTestData("Data Files/Sample")
+TestData td  = findTestData("Data Files/ALL")
 for (int i= 1; i<=td.getRowNumbers(); i++) {
 	String url = td.getObjectValue('host', i) + td.getObjectValue('suffixUrl', i)
 	WebUI.navigateToUrl(url)

@@ -12,24 +12,24 @@
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/Test_Data_60-70</testDataId>
+      <testDataId>Data Files/ALL</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>testName</value>
+      <value></value>
       <variableId>84c04ba8-602e-49ee-98a6-d45a625b361f</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>host</value>
+      <value></value>
       <variableId>af390cf8-9d27-4a9f-a33f-046d405ab656</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>92ef4fe8-25eb-4c54-87f1-6d06ffad8e66</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>suffixUrl</value>
+      <value></value>
       <variableId>88b548d5-4654-49b3-bcec-a2aab435ad40</variableId>
    </variableLinks>
    <variable>
